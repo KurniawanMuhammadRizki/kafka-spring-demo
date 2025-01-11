@@ -1,4 +1,4 @@
-package kurniawan_rizki.kafka_spring_demo.notification;
+package kurniawan_rizki.kafka_spring_demo.notification.service;
 
 import kurniawan_rizki.kafka_spring_demo.order.dto.OrderEventDto;
 import org.springframework.kafka.annotation.KafkaListener;
